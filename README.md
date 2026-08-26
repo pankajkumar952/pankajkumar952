@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Pankaj%20Kumar&fontSize=40&fontColor=ffffff)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6A0DAD&lines=Software+Developer;AI%2FML+Engineer;Full+Stack+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6A0DAD&lines=Full+Stack+Engineer;Software+Developer;AI%2FML+Engineer)](https://git.io/typing-svg)
 
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-purple?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Hyderabad)
 [![Email](https://img.shields.io/badge/Email-mrpankaj0429%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:mrpankaj0429@gmail.com)
