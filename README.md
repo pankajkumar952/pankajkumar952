@@ -9,6 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj-kumar-0b82a8238/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pankajkumar952)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox)](https://pankajkumar952.github.io/Portfolio/)
+[![Website](https://img.shields.io/badge/Website-Learning%20Platform-green?style=for-the-badge&logo=google-chrome)](https://pankajkumar952.github.io/Website_Learning_Platform_For_Engineer/)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pankajkumar952&style=flat-square&color=blue)
 ![Followers](https://img.shields.io/github/followers/pankajkumar952?style=flat-square&color=purple)
@@ -25,16 +28,20 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python, JavaScript  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,angular,spring,fastapi,html,css,mysql,postgres,mongodb,aws,docker,jenkins,kafka,tensorflow,pytorch,git,github,linux" />
+</p>
+
+- **Languages:** Java, Python, JavaScript, TypeScript  
 - **Backend:** Spring Boot, Spring MVC, Spring Security, FastAPI, Hibernate, REST APIs, Microservices  
 - **Frontend:** Angular, React.js, HTML5, CSS3  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD, Maven  
 - **Messaging & Testing:** Apache Kafka, JUnit, REST Assured, Postman  
-- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, NLP, Generative AI, Computer Vision, Fraud Detection Models, Recommendation Systems  
+- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, NLP, Generative AI, Computer Vision  
 - **AI Tools:** GitHub Copilot, OpenAI APIs, Streamlit, Hugging Face Transformers  
-- **Other Tools:** Git, GitHub, Linux, JIRA, OOP, DSA, SDLC, Agile Scrum  
-
+- **Other Tools:** Git, GitHub, Linux, JIRA, OOP, DSA, SDLC, Agile Scrum 
 ---
 
 ## 🚀 Featured Projects
