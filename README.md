@@ -1,3 +1,4 @@
+
 ## Hi there 👋
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Pankaj%20Kumar&fontSize=40&fontColor=ffffff)
@@ -10,6 +11,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pankajkumar952)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox)](https://pankajkumar952.github.io/Portfolio/)
 [![Website](https://img.shields.io/badge/Website-Learning%20Platform-green?style=for-the-badge&logo=google-chrome)](https://pankajkumar952.github.io/Website_Learning_Platform_For_Engineer/)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pankajkumar952&style=flat-square&color=blue)
 ![Followers](https://img.shields.io/github/followers/pankajkumar952?style=flat-square&color=purple)
@@ -39,8 +42,7 @@
 - **Messaging & Testing:** Apache Kafka, JUnit, REST Assured, Postman  
 - **AI/ML:** Scikit-learn, TensorFlow, PyTorch, NLP, Generative AI, Computer Vision  
 - **AI Tools:** GitHub Copilot, OpenAI APIs, Streamlit, Hugging Face Transformers  
-- **Other Tools:** Git, GitHub, Linux, JIRA, OOP, DSA, SDLC, Agile Scrum  
-
+- **Other Tools:** Git, GitHub, Linux, JIRA, OOP, DSA, SDLC, Agile Scrum 
 ---
 
 ## 🚀 Featured Projects
@@ -111,24 +113,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=pankajkumar952&show_icons=true&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankajkumar952&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkumar952&layout=compact&theme=radical)
 
----
-
-## 🏅 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=pankajkumar952&theme=radical&margin-w=15&margin-h=15)
-
----
-
-## 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pankajkumar952&theme=react-dark)  
-
-![Snake](https://github.com/pankajkumar952/pankajkumar952/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🎯 Current Focus
 ```yaml
