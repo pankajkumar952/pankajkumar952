@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **pankajkumar952/pankajkumar952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Pankaj%20Kumar&fontSize=40&fontColor=ffffff)
