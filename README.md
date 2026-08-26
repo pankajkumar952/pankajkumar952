@@ -1,23 +1,31 @@
 ## Hi there 👋
 
 
-**pankajkumar952/pankajkumar952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Pankaj%20Kumar&fontSize=40&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6A0DAD&lines=Software+Developer;Full+Stack+Engineer;AI%2FML+Developer)](https://git.io/typing-svg)
+
+
+
+## 👨‍💻 About Me
+
+💻 Software Developer with expertise in **Java, Spring Boot, Python, REST APIs, Microservices, and Event-Driven Architectures (Kafka)**.  
+🚀 Delivered **12+ enterprise APIs**, achieving **30% higher throughput** and **15% fewer defects**.  
+🧠 Skilled in **database optimization, cloud deployment, and full-stack application development**.  
+🎯 Passionate about building **scalable AI-driven products** with a product engineering mindset.  
+
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, Python, JavaScript  
+**Backend:** Spring Boot, FastAPI, Hibernate, REST APIs, Microservices  
+**Frontend:** Angular, React.js, HTML5, CSS3  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD  
+**Messaging & Testing:** Kafka, JUnit, REST Assured, Postman  
+**AI/ML:** TensorFlow, PyTorch, NLP, Generative AI, Computer Vision  
+
+
 
 ![Location](https://img.shields.io/badge/Hyderabad%2C%20India-purple?style=for-the-badge&logo=google-maps)
 ![Email](https://img.shields.io/badge/Email-mrpankaj0429%40gmail.com-blue?style=for-the-badge&logo=gmail)
