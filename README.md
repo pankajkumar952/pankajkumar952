@@ -5,6 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6A0DAD&lines=Full+Stack+Developer;Software+Engineer;AI%2FML+Engineer)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://drive.google.com/file/d/1Gu8S_5tAjTmgUmjBpKWsxDqXyf2hEdPk/view?usp=sharing" alt="Pankaj Kumar" width="200"/>
+</p>
+
+
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-purple?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Hyderabad)
 [![Email](https://img.shields.io/badge/Email-mrpankaj0429%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:mrpankaj0429@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj-kumar-0b82a8238/)
