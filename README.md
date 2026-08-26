@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=6A0DAD&lines=Full+Stack+Developer;Software+Engineer;AI%2FML+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Gu8S_5tAjTmgUmjBpKWsxDqXyf2hEdPk/view?usp=sharing" alt="Pankaj Kumar" width="200"/>
+  <img src="Image.png" alt="Pankaj Kumar" width="200"/>
 </p>
 
 
