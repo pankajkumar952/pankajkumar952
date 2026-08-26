@@ -6,9 +6,9 @@
 
 [![Location](https://img.shields.io/badge/Hyderabad%2C%20India-purple?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Hyderabad)
 [![Email](https://img.shields.io/badge/Email-mrpankaj0429%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:mrpankaj0429@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankajkumar952)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj-kumar-0b82a8238/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pankajkumar952)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox)](https://pankajkumar952.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox)](https://pankajkumar952.github.io/Portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pankajkumar952&style=flat-square&color=blue)
 ![Followers](https://img.shields.io/github/followers/pankajkumar952?style=flat-square&color=purple)
@@ -105,24 +105,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-![Stats](https://github-readme-stats.vercel.app/api?username=pankajkumar952&show_icons=true&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankajkumar952&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajkumar952&layout=compact&theme=radical)
 
----
-
-## 🏅 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=pankajkumar952&theme=radical&margin-w=15&margin-h=15)
-
----
-
-## 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pankajkumar952&theme=react-dark)  
-
-![Snake](https://github.com/pankajkumar952/pankajkumar952/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🎯 Current Focus
 ```yaml
