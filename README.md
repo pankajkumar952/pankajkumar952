@@ -85,7 +85,7 @@
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
-| Python, Streamlit, AI APIs | Multi-project | 40% faster debugging | Secure local analysis | Accelerated dev workflows | [GitHub](https://github.com/pankajkumar952/AI_Code_Debugger) |
+| Python, Streamlit, AI APIs | Multi-project | 40% faster debugging | Secure local analysis | Accelerated dev workflows | [GitHub](https://github.com/pankajkumar952/AI_RESUME_ANALYZER) |
 
 </details>
 
