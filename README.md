@@ -93,7 +93,7 @@
 
 ## 💼 Experience
 **Software Developer Apprentice — Financial Astrology Global**  
-*Mar 2024 – Feb 2026 (Remote)*  
+*Mar 2025 – Feb 2026 (Remote)*  
 - Developed 12+ REST APIs with Java, Spring Boot, Microservices.  
 - Enhanced SQL queries, achieving 30% faster processing.  
 - Implemented JUnit & REST Assured testing, reducing defects by 15%.  
