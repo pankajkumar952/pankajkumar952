@@ -78,7 +78,7 @@
 </details>
 
 <details>
-<summary><b>🤖 AI-Powered Code Debugger Assistant</b></summary>
+<summary><b>🤖 AI Resume Analyzer</b></summary>
 
 - Developed AI debugging app with **Python + Streamlit** for source-code analysis.  
 - Reduced manual inspection time by **40%**.  
