@@ -57,9 +57,11 @@
 -Developed a modern student productivity platform focused on improving study habits, task management, and learning consistency.
 -Built an interactive and responsive React-based application with a clean, student-friendly interface.
 -Implemented features for task organization, productivity tracking, and focused learning.
+  
 | Stack | Scale | Performance | Security | Impact | Repository |
 |-------|-------|-------------|----------|--------|------------|
 | React, TypeScript, Vite, Tailwind CSS| Web App | Responsive API | Secure Client-Side Application | mproved student productivity & focus | [GitHub](https://github.com/pankajkumar952/studentfocusflow) |
+  
 </details>
 
 <details>
