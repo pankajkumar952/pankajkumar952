@@ -90,7 +90,7 @@
 
 | Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
 |-------|-------|-------------|----------|--------|------------|-----------|
-| Python, Streamlit, AI APIs | Multi-Project | Automated Analysis | Secure Analysis | Improved resume quality & ATS optimization | [GitHub](https://github.com/pankajkumar952/AI_RESUME_ANALYZER) | [Live Demo](https://airesumeanalyzer-jeqbg9qli7k5wj4ndps3fs.streamlit.app/) |
+| Python, Streamlit, AI APIs | Multi-Project | Automated Analysis | Secure Analysis | Improved resume quality & ATS optimization | [GitHub](https://github.com/pankajkumar952/AI_RESUME_ANALYZER) | [Live Demo](https://ai-resume-analyzer-bfew.onrender.com/) |
 
 </details>
 
