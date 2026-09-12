@@ -29,25 +29,99 @@
 🎯 Passionate about building **scalable AI-driven products** with a product engineering mindset.
 
 ---
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,angular,spring,fastapi,html,css,mysql,postgres,mongodb,aws,docker,jenkins,kafka,tensorflow,pytorch,git,github,linux" />
+### Frontend & UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind,mui" />
 </p>
-
-- **Languages:** Java, Python, JavaScript, TypeScript
-- **Backend:** Spring Boot, Spring MVC, Spring Security, FastAPI, Hibernate, REST APIs, Microservices
-- **Frontend:** Angular, React.js, HTML5, CSS3
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD, Maven
-- **Messaging & Testing:** Apache Kafka, JUnit, REST Assured, Postman
-- **AI/ML:** Scikit-learn, TensorFlow, PyTorch, NLP, Generative AI, Computer Vision
-- **AI Tools:** GitHub Copilot, OpenAI APIs, Streamlit, Hugging Face Transformers
-- **Other Tools:** Git, GitHub, Linux, JIRA, OOP, DSA, SDLC, Agile Scrum
 
 ---
 
+### Backend & API Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,fastapi,dotnet" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-0e75b6?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,py,c" />
+</p>
+
+---
+
+### DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,jenkins,githubactions" />
+  &nbsp;<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" />
+</p>
+
+---
+
+### Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,firebase" />
+</p>
+
+---
+
+### Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-00C27C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageKit-2D3EF5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+</p>
+
+---
+
+### AI & Intelligent Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py" />
+  &nbsp;<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF6B35?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-00C27C?style=flat-square&logoColor=white" />
+</p>
+
+---
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress,jest" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity%20IDE-0e75b6?style=flat-square&logoColor=white" />
+</p>
+
+---
 ## 🚀 Featured Projects
 
 <details>
