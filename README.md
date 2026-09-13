@@ -276,7 +276,7 @@
 
 | Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
 |-------|-------|-------------|----------|--------|------------|-----------|
-| HTML, CSS, JavaScript, Responsive Web Design | Web Application | Fast & Responsive UI | Secure Static Web Experience | Enhanced travel discovery & agency presentation | GitHub Repository | [Live Demo](https://trip-nest-yh8a.onrender.com/) |
+| HTML, CSS, JavaScript, Responsive Web Design | Web Application | Fast & Responsive UI | Secure Static Web Experience | Enhanced travel discovery & agency presentation | [GitHub](https://github.com/pankajkumar952/Trip_Nest) | [Live Demo](https://trip-nest-yh8a.onrender.com/) |
 
 </details>
 
@@ -291,7 +291,7 @@
 
 | Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
 |-------|-------|-------------|----------|--------|------------|-----------|
-| HTML, CSS, JavaScript, AI Technologies, Responsive UI | Web Application | Responsive & Interactive | Secure Web Experience | Accessible AI-powered healthcare experience | GitHub Repository | [Live Demo](https://arogyalanding-5xnto6r7w-pankaj-20b2.vercel.app/) |
+| HTML, CSS, JavaScript, AI Technologies, Responsive UI | Web Application | Responsive & Interactive | Secure Web Experience | Accessible AI-powered healthcare experience | [GitHub](https://github.com/pankajkumar952/ArogyaKiosk) | [Live Demo](https://arogyalanding-5xnto6r7w-pankaj-20b2.vercel.app/) |
 
 </details>
 
@@ -306,7 +306,7 @@
 
 | Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
 |-------|-------|-------------|----------|--------|------------|-----------|
-| JavaScript, Web Technologies, Location Services, Responsive UI | Web Application | Real-Time Garage Discovery | Secure Web Experience | Faster access to nearby automotive services | GitHub Repository | [Live Demo](https://fixgarage-nm0lip7f6-pankaj-20b2.vercel.app/) |
+| JavaScript, Web Technologies, Location Services, Responsive UI | Web Application | Real-Time Garage Discovery | Secure Web Experience | Faster access to nearby automotive services | [GitHub](https://github.com/pankajkumar952/QuickFixGarage) | [Live Demo](https://fixgarage-nm0lip7f6-pankaj-20b2.vercel.app/) |
 
 </details>
 
@@ -321,7 +321,7 @@
 
 | Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
 |-------|-------|-------------|----------|--------|------------|-----------|
-| JavaScript, AI APIs, Speech Technologies, Responsive UI | AI Web Platform | Interactive Speech Processing | Secure Web Experience | AI-assisted speaking practice & communication improvement | GitHub Repository | [Live Demo](https://speakvani.vercel.app/) |
+| JavaScript, AI APIs, Speech Technologies, Responsive UI | AI Web Platform | Interactive Speech Processing | Secure Web Experience | AI-assisted speaking practice & communication improvement | [GitHub](https://github.com/pankajkumar952/Speak_Vani) | [Live Demo](https://speakvani.vercel.app/) |
 
 </details>
 
