@@ -135,159 +135,536 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 Student Focus Flow — Student Productivity & Focus Platform
+<details open>
+<summary><b>🎯 Student Focus Flow — Student Productivity & Focus Platform</b></summary>
 
-- Developed a modern student productivity platform focused on improving study habits, task management, and learning consistency.
-- Built an interactive and responsive React-based application with a clean, student-friendly interface.
-- Implemented features for task organization, productivity tracking, and focused learning.
+<br>
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| React, TypeScript, Vite, Tailwind CSS | Web App | Responsive UI | Secure Client-Side Application | Improved student productivity & focus | [GitHub](https://github.com/pankajkumar952/studentfocusflow) | [Live Demo](https://student-wellness-ai-1ll2.vercel.app/) |
+Developed a modern student productivity platform focused on improving study habits, task management, and learning consistency.
 
----
+Built an interactive and responsive React-based application with a clean, student-friendly interface.
 
-### 🤖 NEXUS AI Assistant — Intelligent AI Virtual Assistant
+Implemented features for task organization, productivity tracking, and focused learning.
 
-- Built an AI-powered virtual assistant designed to understand user queries and provide intelligent conversational responses.
-- Developed a responsive and interactive web interface for real-time AI-assisted user interaction.
-- Integrated AI-driven workflows to create a personalized virtual assistant experience.
+Stack
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| JavaScript, AI APIs, React, Web Technologies | Web Application | Real-Time Interaction | Secure Client-Side Application | AI-powered personal assistance | [GitHub](https://github.com/pankajkumar952/NEXUS_AI_ASSISTANT) | [Live Demo](https://nexusassistant-liart.vercel.app/) |
+Scale
 
----
+Performance
 
-### 📄 AI Resume Analyzer — ATS-Optimized Resume Intelligence
+Security
 
-- Developed an AI-powered resume analysis application using **Python and Streamlit** to evaluate resumes against job descriptions.
-- Implemented automated resume parsing, skill matching, ATS-oriented analysis, and personalized improvement recommendations.
+Impact
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| Python, Streamlit, AI APIs | Multi-Project | Automated Analysis | Secure Analysis | Improved resume quality & ATS optimization | [GitHub](https://github.com/pankajkumar952/AI_RESUME_ANALYZER) | [Live Demo](https://ai-resume-analyzer-bfew.onrender.com/) |
+Repository
 
----
+Live Demo
 
-### 💬 Milo AI Chatbot — Conversational AI Assistant
+React, TypeScript, Vite, Tailwind CSS
 
-- Built a modern AI-powered chatbot delivering an interactive, conversational user experience through intelligent digital assistance.
-- Designed real-time conversational workflows with a clean, responsive chat interface.
-- Focused on smooth UX and fast response handling for natural back-and-forth conversations.
+Web App
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| JavaScript, AI APIs, React, Modern UI | Web Application | Real-Time Chat | Secure Client-Side Application | Seamless AI-driven conversational experience | [GitHub](https://github.com/pankajkumar952/Milo_AI_Chatbot) | [Live Demo](https://milo-ro2pplc2d-pankaj-20b2.vercel.app/) |
+Responsive UI
 
----
+Secure Client-Side Application
 
-### 🏋️ IRONVAULT Fitness — Gym & Fitness Platform
+Improved student productivity & focus
 
-- Designed a modern fitness and gym website with an engaging UI to showcase training programs, coaches, and facilities.
-- Built responsive layouts optimized across devices to boost conversion for prospective gym members.
-- Highlighted trainer profiles and service offerings with a polished, brand-consistent design.
+GitHub
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| HTML, CSS, JavaScript, Responsive Design | Marketing Website | Fast Load, Mobile-First | Secure Static Hosting | Improved brand presentation & lead generation | [GitHub](https://github.com/pankajkumar952/IRONVAULT_FITNESS) | [Live Demo](https://ironvault-six.vercel.app/) |
+Live Demo
 
----
+</details>
 
-### 🌦️ Weather Scope — Real-Time Weather Application
+<details>
+<summary><b>🤖 NEXUS AI Assistant — Intelligent AI Virtual Assistant</b></summary>
 
-- Built a modern weather application offering a clean, responsive interface for real-time conditions and forecasts.
-- Integrated live weather APIs to deliver accurate, up-to-date data across locations.
-- Optimized UI for quick glanceable information on both desktop and mobile.
+<br>
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| JavaScript, Weather API, Responsive UI | Web App | Real-Time Data Fetching | Secure API Integration | Reliable, real-time weather insights for users | [GitHub](https://github.com/pankajkumar952/Weather_Scope) | [Live Demo](https://weatherscope-fpw9zzhkx-pankaj-20b2.vercel.app/) |
+Built an AI-powered virtual assistant designed to understand user queries and provide intelligent conversational responses.
 
----
+Developed a responsive and interactive web interface for real-time AI-assisted user interaction.
 
-### 🧑‍💼 Talent Sphere — AI-Powered Talent & Recruitment Platform
+Integrated AI-driven workflows to create a personalized virtual assistant experience.
 
-- Designing an AI-powered recruitment platform that connects candidates with the right opportunities via intelligent talent analysis.
-- Building candidate-job matching workflows powered by AI-driven scoring and evaluation.
-- Architecting the platform to streamline hiring pipelines for recruiters and improve candidate discovery.
+Stack
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| AI/ML, Candidate Matching, Web Technologies | Platform | Intelligent Matching | In Development | Smarter, faster candidate-role matching | [GitHub](https://github.com/pankajkumar952/Talent_Sphere) | Coming Soon |
+Scale
 
----
+Performance
 
-### 📈 JobPulse AI — AI-Powered Job Market Intelligence
+Security
 
-- Building an AI-powered job intelligence platform that analyzes postings to surface market trends and in-demand skills.
-- Applying NLP techniques to extract and rank skills from thousands of job listings.
-- Enabling data-driven career decisions for job seekers through actionable market insights.
+Impact
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| Python, NLP, Data Analysis, AI APIs | Data-Intensive Platform | Automated Skill Extraction | In Development | Data-driven career & hiring insights | [GitHub](https://github.com/pankajkumar952/JobPulse-ai) | Coming Soon |
+Repository
 
----
+Live Demo
 
-### 🛡️ CognitiveFraud — Real-Time AI Fraud Detection Platform
+JavaScript, AI APIs, React, Web Technologies
 
-- Built a real-time AI fraud detection and risk analytics platform to flag suspicious transactions as they occur.
-- Designed an event-driven architecture with **Apache Kafka** for high-throughput, low-latency transaction streaming.
-- Implemented rule-based and AI/ML-driven risk scoring backed by **Redis** for fast lookups and **PostgreSQL** for durable storage.
+Web Application
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| Python, FastAPI, PostgreSQL, Redis, Apache Kafka, AI/ML | Event-Driven System | Real-Time Stream Processing | Risk-Based Access Controls | Faster, smarter fraud detection & reduced financial risk | [GitHub](https://github.com/pankajkumar952/CognitiveFraud) | Coming Soon |
+Real-Time Interaction
 
----
+Secure Client-Side Application
 
-### 🌊 TripNest — Travel Agency Website
+AI-powered personal assistance
 
-- Developed a modern travel agency website designed to showcase travel destinations, tour packages, services, and travel experiences.
-- Built a responsive and visually engaging interface for users exploring travel offerings.
-- Focused on clean navigation, destination presentation, and user-friendly travel content.
+GitHub
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| HTML, CSS, JavaScript, Responsive Web Design | Web Application | Responsive UI | Secure Web Hosting | Improved travel service presentation & user experience | [GitHub](https://github.com/pankajkumar952/Trip_Nest) | [Live Demo](https://trip-nest-yh8a.onrender.com/) |
+Live Demo
 
----
+</details>
 
-### 🌿 ArogyaKiosk — AI Healthcare Platform
+<details>
+<summary><b>📄 AI Resume Analyzer — ATS-Optimized Resume Intelligence</b></summary>
 
-- Developed an AI-powered healthcare platform focused on making digital healthcare assistance more accessible.
-- Designed a modern and user-friendly interface for interacting with healthcare-focused digital services.
-- Focused on accessibility, responsive design, and AI-powered user assistance.
+<br>
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| AI, Web Technologies, Responsive UI | Web Application | Responsive Experience | Secure Web Hosting | Accessible AI-powered healthcare assistance | [GitHub](https://github.com/pankajkumar952/ArogyaKiosk) | [Live Demo](https://arogyalanding-5xnto6r7w-pankaj-20b2.vercel.app/) |
+Developed an AI-powered resume analysis application using Python and Streamlit to evaluate resumes against job descriptions.
 
----
+Implemented automated resume parsing, skill matching, ATS-oriented analysis, and personalized improvement recommendations.
 
-### 🔧 QuickFix Garage — Real-Time Garage Finder
+Stack
 
-- Developed a real-time garage finder application that helps users locate nearby garages and explore available vehicle services.
-- Designed the platform to support users who need quick assistance during vehicle-related emergencies.
-- Built a responsive interface focused on garage discovery, service information, and user convenience.
+Scale
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| Web Technologies, Location-Based Services, Responsive UI | Web Application | Real-Time Discovery | Secure Web Hosting | Faster garage discovery & emergency assistance | [GitHub](https://github.com/pankajkumar952/QuickFixGarage) | [Live Demo](https://fixgarage-nm0lip7f6-pankaj-20b2.vercel.app/) |
+Performance
 
----
+Security
 
-### 🎙️ SpeakVaani — AI Speech Training & Coaching Platform
+Impact
 
-- Developed an AI-powered speech training and coaching platform designed to help users improve communication and speaking skills.
-- Created an interactive practice experience focused on speaking improvement and user engagement.
-- Combined modern web technologies with AI-driven coaching workflows for an accessible learning experience.
+Repository
 
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| AI, Speech Training, Web Technologies, Responsive UI | Web Application | Interactive Practice | Secure Web Hosting | Improved speaking practice & communication skills | [GitHub](https://github.com/pankajkumar952/Speak_Vani) | [Live Demo](https://speakvani.vercel.app/) |
+Live Demo
 
+Python, Streamlit, AI APIs
+
+Multi-Project
+
+Automated Analysis
+
+Secure Analysis
+
+Improved resume quality & ATS optimization
+
+GitHub
+
+Live Demo
+
+</details>
+
+<details>
+<summary><b>💬 Milo AI Chatbot — Conversational AI Assistant</b></summary>
+
+<br>
+
+Built a modern AI-powered chatbot delivering an interactive, conversational user experience through intelligent digital assistance.
+
+Designed real-time conversational workflows with a clean, responsive chat interface.
+
+Focused on smooth UX and fast response handling for natural back-and-forth conversations.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+JavaScript, AI APIs, React, Modern UI
+
+Web Application
+
+Real-Time Chat
+
+Secure Client-Side Application
+
+Seamless AI-driven conversational experience
+
+GitHub
+
+Live Demo
+
+</details>
+
+<details>
+<summary><b>🏋️ IRONVAULT Fitness — Gym & Fitness Platform</b></summary>
+
+<br>
+
+Designed a modern fitness and gym website with an engaging UI to showcase training programs, coaches, and facilities.
+
+Built responsive layouts optimized across devices to boost conversion for prospective gym members.
+
+Highlighted trainer profiles and service offerings with a polished, brand-consistent design.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+HTML, CSS, JavaScript, Responsive Design
+
+Marketing Website
+
+Fast Load, Mobile-First
+
+Secure Static Hosting
+
+Improved brand presentation & lead generation
+
+GitHub
+
+Live Demo
+
+</details>
+
+<details>
+<summary><b>🌦️ Weather Scope — Real-Time Weather Application</b></summary>
+
+<br>
+
+Built a modern weather application offering a clean, responsive interface for real-time conditions and forecasts.
+
+Integrated live weather APIs to deliver accurate, up-to-date data across locations.
+
+Optimized UI for quick glanceable information on both desktop and mobile.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+JavaScript, Weather API, Responsive UI
+
+Web App
+
+Real-Time Data Fetching
+
+Secure API Integration
+
+Reliable, real-time weather insights for users
+
+GitHub
+
+Live Demo
+
+</details>
+
+<details>
+<summary><b>🧑‍💼 Talent Sphere — AI-Powered Talent & Recruitment Platform</b></summary>
+
+<br>
+
+Designing an AI-powered recruitment platform that connects candidates with the right opportunities via intelligent talent analysis.
+
+Building candidate-job matching workflows powered by AI-driven scoring and evaluation.
+
+Architecting the platform to streamline hiring pipelines for recruiters and improve candidate discovery.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+AI/ML, Candidate Matching, Web Technologies
+
+Platform
+
+Intelligent Matching
+
+In Development
+
+Smarter, faster candidate-role matching
+
+GitHub
+
+Coming Soon
+
+</details>
+
+<details>
+<summary><b>📈 JobPulse AI — AI-Powered Job Market Intelligence</b></summary>
+
+<br>
+
+Building an AI-powered job intelligence platform that analyzes postings to surface market trends and in-demand skills.
+
+Applying NLP techniques to extract and rank skills from thousands of job listings.
+
+Enabling data-driven career decisions for job seekers through actionable market insights.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+Python, NLP, Data Analysis, AI APIs
+
+Data-Intensive Platform
+
+Automated Skill Extraction
+
+In Development
+
+Data-driven career & hiring insights
+
+GitHub
+
+Coming Soon
+
+</details>
+
+<details>
+<summary><b>🛡️ CognitiveFraud — Real-Time AI Fraud Detection Platform</b></summary>
+
+<br>
+
+Built a real-time AI fraud detection and risk analytics platform to flag suspicious transactions as they occur.
+
+Designed an event-driven architecture with Apache Kafka for high-throughput, low-latency transaction streaming.
+
+Implemented rule-based and AI/ML-driven risk scoring backed by Redis for fast lookups and PostgreSQL for durable storage.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+Python, FastAPI, PostgreSQL, Redis, Apache Kafka, AI/ML
+
+Event-Driven System
+
+Real-Time Stream Processing
+
+Risk-Based Access Controls
+
+Faster, smarter fraud detection & reduced financial risk
+
+GitHub
+
+Coming Soon
+
+</details>
+
+<details>
+<summary><b>🌊 TripNest — Travel Agency Website</b></summary>
+
+<br>
+
+Developed a modern travel agency website designed to present travel destinations, packages, services, and customer-focused travel experiences.
+
+Built a responsive and visually engaging interface optimized for desktop and mobile users.
+
+Designed the platform with a clean travel-oriented experience focused on easy navigation and destination discovery.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+HTML, CSS, JavaScript, Responsive Web Design
+
+Web Application
+
+Fast & Responsive UI
+
+Secure Static Web Experience
+
+Enhanced travel discovery & agency presentation
+
+GitHub Repository
+
+Live Demo
+
+</details>
+
+<details>
+<summary><b>🌿 ArogyaKiosk — AI Healthcare for Every Indian</b></summary>
+
+<br>
+
+Built a modern AI-powered healthcare landing experience focused on making digital healthcare assistance more accessible.
+
+Designed a clean, responsive interface with an emphasis on accessibility, simplicity, and user-friendly interaction.
+
+Focused on creating an approachable digital healthcare experience for users across India.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+HTML, CSS, JavaScript, AI Technologies, Responsive UI
+
+Web Application
+
+Responsive & Interactive
+
+Secure Web Experience
+
+Accessible AI-powered healthcare experience
+
+GitHub Repository
+
+Live Demo
+
+</details>
+
+<details>
+<summary><b>🔧 QuickFix Garage — Real-Time Garage Finder</b></summary>
+
+<br>
+
+Built a real-time garage finder application that helps users locate nearby garages and explore available automotive services.
+
+Designed the platform to support quick access to garage information and assistance, especially during emergency situations.
+
+Created a responsive user experience focused on fast discovery, service visibility, and convenient assistance.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+JavaScript, Web Technologies, Location Services, Responsive UI
+
+Web Application
+
+Real-Time Garage Discovery
+
+Secure Web Experience
+
+Faster access to nearby automotive services
+
+GitHub Repository
+
+Live Demo
+
+</details>
+
+<details>
+<summary><b>🎙️ SpeakVaani — AI-Powered Speech Training & Coaching Platform</b></summary>
+
+<br>
+
+Built an interactive speech training and coaching platform centered around the learning loop Choose → Speak → Record → Transcribe → Improve.
+
+Designed an engaging interface to help users practice speaking, record responses, and receive AI-assisted feedback.
+
+Focused on improving communication confidence and structured speaking practice through an interactive digital experience.
+
+Stack
+
+Scale
+
+Performance
+
+Security
+
+Impact
+
+Repository
+
+Live Demo
+
+JavaScript, AI APIs, Speech Technologies, Responsive UI
+
+AI Web Platform
+
+Interactive Speech Processing
+
+Secure Web Experience
+
+AI-assisted speaking practice & communication improvement
+
+GitHub Repository
+
+Live Demo
+
+</details>
 ---
 
 ## 💼 Experience
