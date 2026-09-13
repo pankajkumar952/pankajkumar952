@@ -23,14 +23,10 @@
 
 ## 👨‍💻 About Me
 
-💻 Software Developer with expertise in **Java, Spring Boot, Python, REST APIs, Microservices, and Event-Driven Architectures (Kafka)**.
-
-🚀 Delivered **12+ enterprise APIs**, achieving **30% higher throughput** and **15% fewer defects**.
-
-🧠 Skilled in **database optimization, cloud deployment, and full-stack application development**.
-
-🤖 Built **13+ AI-powered and full-stack products** spanning chatbots, fraud detection, recruitment intelligence, healthcare, travel, productivity, and speech training platforms.
-
+💻 Software Developer with expertise in **Java, Spring Boot, Python, REST APIs, Microservices, and Event-Driven Architectures (Kafka)**.  
+🚀 Delivered **12+ enterprise APIs**, achieving **30% higher throughput** and **15% fewer defects**.  
+🧠 Skilled in **database optimization, cloud deployment, and full-stack application development**.  
+🤖 Built **13+ AI-powered and modern web products** spanning chatbots, fraud detection, recruitment intelligence, productivity platforms, healthcare, travel, automotive services, and speech training — with multiple products shipped and live.  
 🎯 Passionate about building **scalable AI-driven products** with a product engineering mindset that bridges backend systems and intelligent user experiences.
 
 ---
@@ -140,39 +136,13 @@
 
 <br>
 
-Developed a modern student productivity platform focused on improving study habits, task management, and learning consistency.
+- Developed a modern student productivity platform focused on improving study habits, task management, and learning consistency.
+- Built an interactive and responsive React-based application with a clean, student-friendly interface.
+- Implemented features for task organization, productivity tracking, and focused learning.
 
-Built an interactive and responsive React-based application with a clean, student-friendly interface.
-
-Implemented features for task organization, productivity tracking, and focused learning.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-React, TypeScript, Vite, Tailwind CSS
-
-Web App
-
-Responsive UI
-
-Secure Client-Side Application
-
-Improved student productivity & focus
-
-GitHub
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| React, TypeScript, Vite, Tailwind CSS | Web App | Responsive UI | Secure Client-Side Application | Improved student productivity & focus | [GitHub](https://github.com/pankajkumar952/studentfocusflow) | [Live Demo](https://student-wellness-ai-1ll2.vercel.app/) |
 
 </details>
 
@@ -181,39 +151,13 @@ Live Demo
 
 <br>
 
-Built an AI-powered virtual assistant designed to understand user queries and provide intelligent conversational responses.
+- Built an AI-powered virtual assistant designed to understand user queries and provide intelligent conversational responses.
+- Developed a responsive and interactive web interface for real-time AI-assisted user interaction.
+- Integrated AI-driven workflows to create a personalized virtual assistant experience.
 
-Developed a responsive and interactive web interface for real-time AI-assisted user interaction.
-
-Integrated AI-driven workflows to create a personalized virtual assistant experience.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-JavaScript, AI APIs, React, Web Technologies
-
-Web Application
-
-Real-Time Interaction
-
-Secure Client-Side Application
-
-AI-powered personal assistance
-
-GitHub
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| JavaScript, AI APIs, React, Web Technologies | Web Application | Real-Time Interaction | Secure Client-Side Application | AI-powered personal assistance | [GitHub](https://github.com/pankajkumar952/NEXUS_AI_ASSISTANT) | [Live Demo](https://nexusassistant-liart.vercel.app/) |
 
 </details>
 
@@ -222,37 +166,12 @@ Live Demo
 
 <br>
 
-Developed an AI-powered resume analysis application using Python and Streamlit to evaluate resumes against job descriptions.
+- Developed an AI-powered resume analysis application using **Python and Streamlit** to evaluate resumes against job descriptions.
+- Implemented automated resume parsing, skill matching, ATS-oriented analysis, and personalized improvement recommendations.
 
-Implemented automated resume parsing, skill matching, ATS-oriented analysis, and personalized improvement recommendations.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-Python, Streamlit, AI APIs
-
-Multi-Project
-
-Automated Analysis
-
-Secure Analysis
-
-Improved resume quality & ATS optimization
-
-GitHub
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| Python, Streamlit, AI APIs | Multi-Project | Automated Analysis | Secure Analysis | Improved resume quality & ATS optimization | [GitHub](https://github.com/pankajkumar952/AI_RESUME_ANALYZER) | [Live Demo](https://ai-resume-analyzer-bfew.onrender.com/) |
 
 </details>
 
@@ -261,39 +180,13 @@ Live Demo
 
 <br>
 
-Built a modern AI-powered chatbot delivering an interactive, conversational user experience through intelligent digital assistance.
+- Built a modern AI-powered chatbot delivering an interactive, conversational user experience through intelligent digital assistance.
+- Designed real-time conversational workflows with a clean, responsive chat interface.
+- Focused on smooth UX and fast response handling for natural back-and-forth conversations.
 
-Designed real-time conversational workflows with a clean, responsive chat interface.
-
-Focused on smooth UX and fast response handling for natural back-and-forth conversations.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-JavaScript, AI APIs, React, Modern UI
-
-Web Application
-
-Real-Time Chat
-
-Secure Client-Side Application
-
-Seamless AI-driven conversational experience
-
-GitHub
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| JavaScript, AI APIs, React, Modern UI | Web Application | Real-Time Chat | Secure Client-Side Application | Seamless AI-driven conversational experience | [GitHub](https://github.com/pankajkumar952/Milo_AI_Chatbot) | [Live Demo](https://milo-ro2pplc2d-pankaj-20b2.vercel.app/) |
 
 </details>
 
@@ -302,39 +195,13 @@ Live Demo
 
 <br>
 
-Designed a modern fitness and gym website with an engaging UI to showcase training programs, coaches, and facilities.
+- Designed a modern fitness and gym website with an engaging UI to showcase training programs, coaches, and facilities.
+- Built responsive layouts optimized across devices to boost conversion for prospective gym members.
+- Highlighted trainer profiles and service offerings with a polished, brand-consistent design.
 
-Built responsive layouts optimized across devices to boost conversion for prospective gym members.
-
-Highlighted trainer profiles and service offerings with a polished, brand-consistent design.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-HTML, CSS, JavaScript, Responsive Design
-
-Marketing Website
-
-Fast Load, Mobile-First
-
-Secure Static Hosting
-
-Improved brand presentation & lead generation
-
-GitHub
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| HTML, CSS, JavaScript, Responsive Design | Marketing Website | Fast Load, Mobile-First | Secure Static Hosting | Improved brand presentation & lead generation | [GitHub](https://github.com/pankajkumar952/IRONVAULT_FITNESS) | [Live Demo](https://ironvault-six.vercel.app/) |
 
 </details>
 
@@ -343,39 +210,13 @@ Live Demo
 
 <br>
 
-Built a modern weather application offering a clean, responsive interface for real-time conditions and forecasts.
+- Built a modern weather application offering a clean, responsive interface for real-time conditions and forecasts.
+- Integrated live weather APIs to deliver accurate, up-to-date data across locations.
+- Optimized UI for quick glanceable information on both desktop and mobile.
 
-Integrated live weather APIs to deliver accurate, up-to-date data across locations.
-
-Optimized UI for quick glanceable information on both desktop and mobile.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-JavaScript, Weather API, Responsive UI
-
-Web App
-
-Real-Time Data Fetching
-
-Secure API Integration
-
-Reliable, real-time weather insights for users
-
-GitHub
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| JavaScript, Weather API, Responsive UI | Web App | Real-Time Data Fetching | Secure API Integration | Reliable, real-time weather insights for users | [GitHub](https://github.com/pankajkumar952/Weather_Scope) | [Live Demo](https://weatherscope-fpw9zzhkx-pankaj-20b2.vercel.app/) |
 
 </details>
 
@@ -384,39 +225,13 @@ Live Demo
 
 <br>
 
-Designing an AI-powered recruitment platform that connects candidates with the right opportunities via intelligent talent analysis.
+- Designing an AI-powered recruitment platform that connects candidates with the right opportunities via intelligent talent analysis.
+- Building candidate-job matching workflows powered by AI-driven scoring and evaluation.
+- Architecting the platform to streamline hiring pipelines for recruiters and improve candidate discovery.
 
-Building candidate-job matching workflows powered by AI-driven scoring and evaluation.
-
-Architecting the platform to streamline hiring pipelines for recruiters and improve candidate discovery.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-AI/ML, Candidate Matching, Web Technologies
-
-Platform
-
-Intelligent Matching
-
-In Development
-
-Smarter, faster candidate-role matching
-
-GitHub
-
-Coming Soon
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| AI/ML, Candidate Matching, Web Technologies | Platform | Intelligent Matching | In Development | Smarter, faster candidate-role matching | [GitHub](https://github.com/pankajkumar952/Talent_Sphere) | Coming Soon |
 
 </details>
 
@@ -425,39 +240,13 @@ Coming Soon
 
 <br>
 
-Building an AI-powered job intelligence platform that analyzes postings to surface market trends and in-demand skills.
+- Building an AI-powered job intelligence platform that analyzes postings to surface market trends and in-demand skills.
+- Applying NLP techniques to extract and rank skills from thousands of job listings.
+- Enabling data-driven career decisions for job seekers through actionable market insights.
 
-Applying NLP techniques to extract and rank skills from thousands of job listings.
-
-Enabling data-driven career decisions for job seekers through actionable market insights.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-Python, NLP, Data Analysis, AI APIs
-
-Data-Intensive Platform
-
-Automated Skill Extraction
-
-In Development
-
-Data-driven career & hiring insights
-
-GitHub
-
-Coming Soon
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| Python, NLP, Data Analysis, AI APIs | Data-Intensive Platform | Automated Skill Extraction | In Development | Data-driven career & hiring insights | [GitHub](https://github.com/pankajkumar952/JobPulse-ai) | Coming Soon |
 
 </details>
 
@@ -466,39 +255,13 @@ Coming Soon
 
 <br>
 
-Built a real-time AI fraud detection and risk analytics platform to flag suspicious transactions as they occur.
+- Built a real-time AI fraud detection and risk analytics platform to flag suspicious transactions as they occur.
+- Designed an event-driven architecture with **Apache Kafka** for high-throughput, low-latency transaction streaming.
+- Implemented rule-based and AI/ML-driven risk scoring backed by **Redis** for fast lookups and **PostgreSQL** for durable storage.
 
-Designed an event-driven architecture with Apache Kafka for high-throughput, low-latency transaction streaming.
-
-Implemented rule-based and AI/ML-driven risk scoring backed by Redis for fast lookups and PostgreSQL for durable storage.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-Python, FastAPI, PostgreSQL, Redis, Apache Kafka, AI/ML
-
-Event-Driven System
-
-Real-Time Stream Processing
-
-Risk-Based Access Controls
-
-Faster, smarter fraud detection & reduced financial risk
-
-GitHub
-
-Coming Soon
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| Python, FastAPI, PostgreSQL, Redis, Apache Kafka, AI/ML | Event-Driven System | Real-Time Stream Processing | Risk-Based Access Controls | Faster, smarter fraud detection & reduced financial risk | [GitHub](https://github.com/pankajkumar952/CognitiveFraud) | Coming Soon |
 
 </details>
 
@@ -507,39 +270,13 @@ Coming Soon
 
 <br>
 
-Developed a modern travel agency website designed to present travel destinations, packages, services, and customer-focused travel experiences.
+- Developed a modern travel agency website designed to present travel destinations, packages, services, and customer-focused travel experiences.
+- Built a responsive and visually engaging interface optimized for desktop and mobile users.
+- Designed the platform with a clean travel-oriented experience focused on easy navigation and destination discovery.
 
-Built a responsive and visually engaging interface optimized for desktop and mobile users.
-
-Designed the platform with a clean travel-oriented experience focused on easy navigation and destination discovery.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-HTML, CSS, JavaScript, Responsive Web Design
-
-Web Application
-
-Fast & Responsive UI
-
-Secure Static Web Experience
-
-Enhanced travel discovery & agency presentation
-
-GitHub Repository
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| HTML, CSS, JavaScript, Responsive Web Design | Web Application | Fast & Responsive UI | Secure Static Web Experience | Enhanced travel discovery & agency presentation | GitHub Repository | [Live Demo](https://trip-nest-yh8a.onrender.com/) |
 
 </details>
 
@@ -548,39 +285,13 @@ Live Demo
 
 <br>
 
-Built a modern AI-powered healthcare landing experience focused on making digital healthcare assistance more accessible.
+- Built a modern AI-powered healthcare landing experience focused on making digital healthcare assistance more accessible.
+- Designed a clean, responsive interface with an emphasis on accessibility, simplicity, and user-friendly interaction.
+- Focused on creating an approachable digital healthcare experience for users across India.
 
-Designed a clean, responsive interface with an emphasis on accessibility, simplicity, and user-friendly interaction.
-
-Focused on creating an approachable digital healthcare experience for users across India.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-HTML, CSS, JavaScript, AI Technologies, Responsive UI
-
-Web Application
-
-Responsive & Interactive
-
-Secure Web Experience
-
-Accessible AI-powered healthcare experience
-
-GitHub Repository
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| HTML, CSS, JavaScript, AI Technologies, Responsive UI | Web Application | Responsive & Interactive | Secure Web Experience | Accessible AI-powered healthcare experience | GitHub Repository | [Live Demo](https://arogyalanding-5xnto6r7w-pankaj-20b2.vercel.app/) |
 
 </details>
 
@@ -589,39 +300,13 @@ Live Demo
 
 <br>
 
-Built a real-time garage finder application that helps users locate nearby garages and explore available automotive services.
+- Built a real-time garage finder application that helps users locate nearby garages and explore available automotive services.
+- Designed the platform to support quick access to garage information and assistance, especially during emergency situations.
+- Created a responsive user experience focused on fast discovery, service visibility, and convenient assistance.
 
-Designed the platform to support quick access to garage information and assistance, especially during emergency situations.
-
-Created a responsive user experience focused on fast discovery, service visibility, and convenient assistance.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-JavaScript, Web Technologies, Location Services, Responsive UI
-
-Web Application
-
-Real-Time Garage Discovery
-
-Secure Web Experience
-
-Faster access to nearby automotive services
-
-GitHub Repository
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| JavaScript, Web Technologies, Location Services, Responsive UI | Web Application | Real-Time Garage Discovery | Secure Web Experience | Faster access to nearby automotive services | GitHub Repository | [Live Demo](https://fixgarage-nm0lip7f6-pankaj-20b2.vercel.app/) |
 
 </details>
 
@@ -630,41 +315,16 @@ Live Demo
 
 <br>
 
-Built an interactive speech training and coaching platform centered around the learning loop Choose → Speak → Record → Transcribe → Improve.
+- Built an interactive speech training and coaching platform centered around the learning loop **Choose → Speak → Record → Transcribe → Improve**.
+- Designed an engaging interface to help users practice speaking, record responses, and receive AI-assisted feedback.
+- Focused on improving communication confidence and structured speaking practice through an interactive digital experience.
 
-Designed an engaging interface to help users practice speaking, record responses, and receive AI-assisted feedback.
-
-Focused on improving communication confidence and structured speaking practice through an interactive digital experience.
-
-Stack
-
-Scale
-
-Performance
-
-Security
-
-Impact
-
-Repository
-
-Live Demo
-
-JavaScript, AI APIs, Speech Technologies, Responsive UI
-
-AI Web Platform
-
-Interactive Speech Processing
-
-Secure Web Experience
-
-AI-assisted speaking practice & communication improvement
-
-GitHub Repository
-
-Live Demo
+| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
+|-------|-------|-------------|----------|--------|------------|-----------|
+| JavaScript, AI APIs, Speech Technologies, Responsive UI | AI Web Platform | Interactive Speech Processing | Secure Web Experience | AI-assisted speaking practice & communication improvement | GitHub Repository | [Live Demo](https://speakvani.vercel.app/) |
 
 </details>
+
 ---
 
 ## 💼 Experience
@@ -715,6 +375,12 @@ Building: Scalable Microservices & Event-Driven Systems
 Exploring: Generative AI & AI-Powered Applications
 Open To: Software Engineering, AI/ML, Full Stack Roles
 ```
+
+---
+
+<p align="center">
+  <i>📫 Let's connect — always open to discussing new opportunities, collaborations, or interesting problems to solve.</i>
+</p>
 
 ---
 
