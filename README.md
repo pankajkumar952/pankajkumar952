@@ -236,7 +236,7 @@
 </details>
 
 <details>
-<summary><b>📈 JobPulse AI — AI-Powered Job Market Intelligence</b></summary>
+<summary><b>📈 JobFind AI — AI-Powered Job Market Intelligence</b></summary>
 
 <br>
 
@@ -246,7 +246,7 @@
 
 | Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
 |-------|-------|-------------|----------|--------|------------|-----------|
-| Python, NLP, Data Analysis, AI APIs | Data-Intensive Platform | Automated Skill Extraction | In Development | Data-driven career & hiring insights | [GitHub](https://github.com/pankajkumar952/JobPulse-ai) | Coming Soon |
+| Python, NLP, Data Analysis, AI APIs | Data-Intensive Platform | Automated Skill Extraction | In Development | Data-driven career & hiring insights | [GitHub](https://github.com/pankajkumar952/JobFind_AI) | [Live Demo](https://jobfind-ai-1sk7.onrender.com/) |
 
 </details>
 
