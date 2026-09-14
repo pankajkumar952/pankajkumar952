@@ -250,20 +250,6 @@
 
 </details>
 
-<details>
-<summary><b>🛡️ CognitiveFraud — Real-Time AI Fraud Detection Platform</b></summary>
-
-<br>
-
-- Built a real-time AI fraud detection and risk analytics platform to flag suspicious transactions as they occur.
-- Designed an event-driven architecture with **Apache Kafka** for high-throughput, low-latency transaction streaming.
-- Implemented rule-based and AI/ML-driven risk scoring backed by **Redis** for fast lookups and **PostgreSQL** for durable storage.
-
-| Stack | Scale | Performance | Security | Impact | Repository | Live Demo |
-|-------|-------|-------------|----------|--------|------------|-----------|
-| Python, FastAPI, PostgreSQL, Redis, Apache Kafka, AI/ML | Event-Driven System | Real-Time Stream Processing | Risk-Based Access Controls | Faster, smarter fraud detection & reduced financial risk | [GitHub](https://github.com/pankajkumar952/CognitiveFraud) | Coming Soon |
-
-</details>
 
 <details>
 <summary><b>🌊 TripNest — Travel Agency Website</b></summary>
