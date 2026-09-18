@@ -369,10 +369,3 @@ Open To: Software Engineering, AI/ML, Full Stack Roles
 </p>
 
 ---
-
-<p align="center">
-  <i>📫 Let's connect — always open to discussing new opportunities, collaborations, or interesting problems to solve.</i>
-</p>
-
-
-**One important point:** I changed the “9+ AI-powered products” line to **13+ AI-powered and full-stack products** because the README now showcases 13 projects. That keeps the README internally consistent.
